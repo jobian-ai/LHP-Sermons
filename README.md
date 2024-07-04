@@ -15,6 +15,6 @@ More granular guidance is in the README's of the _speech-to-text_ & _fabric_ fol
 1. Download the .mp3 files from the church website
 2. Convert the .mp3 files to text using the free '[Whisper](https://pypi.org/project/openai-whisper/)' engine from OpenAI and Python.
 3. Use a prompt in ChatGPT to punctuate and paragraph the raw text file.
-4. With 'Fabric' process the punctuated text file to make summarization files in the Sermon folder.
+4. With 'Fabric', process the punctuated text file to make summarization files in the Sermon folder.
 
 ## REM - Don't Take the Weights out of the Gym!
