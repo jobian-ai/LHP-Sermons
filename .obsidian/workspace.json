@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64c8465525d560bd",
+        "id": "bc8af9a5d0f46934",
         "type": "tabs",
         "children": [
           {
-            "id": "83603261a04780c8",
+            "id": "fe5ed9a15c4d1a1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "speech-to-text/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "speech-to-text/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "speech-to-text/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "speech-to-text/README.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83603261a04780c8",
+  "active": "fe5ed9a15c4d1a1b",
   "lastOpenFiles": [
+    "sermons/24-05-19/2024-05-19-Family.md",
     "sermons/24-05-12/2024-05-12-Sign Language.md",
     "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
     "00-INBOX/2024-05-12-Sign Language (SE).md",

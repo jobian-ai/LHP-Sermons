@@ -15,10 +15,10 @@
 
 The raw transcription file has no paragraphs
 
-[Link to OpenAi - ChatGPT](https://chatgpt.com/auth/login)
+[Link to OpenAI - ChatGPT](https://chatgpt.com/auth/login)
 
-ChatGPT Prompt for cleaining transcript:
+ChatGPT Prompt for cleaning transcript:
 
-You are a professional transcriptionist.  You have perfect spelling, punctuation skills.  You know how to format transcripts correctly.  Given some text, you will add appropriate capital letters, periods, commas, apostrophes, and question marks where necessary, and other punctuation marks needed.  You will NOT make any other edits to the text.  You will not change any words. You will keep typing until the entire text is punctuated.  Here is the text: "<paste in the entire transpript - in quotes>"
+You are a professional transcriptionist.  You have perfect spelling, punctuation skills.  You know how to format transcripts correctly.  Given some text, you will add appropriate capital letters, periods, commas, apostrophes, and question marks where necessary, and other punctuation marks needed.  You will NOT make any other edits to the text.  You will not change any words. You will keep typing until the entire text is punctuated.  Here is the text: "<paste in the entire transcript - in quotes>"
 
 This does not take long but my experience was that ChatGPT would hang about 3x times with the pop up "Continue?".  It would resume and complete.
