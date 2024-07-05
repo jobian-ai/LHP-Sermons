@@ -11,8 +11,12 @@
             "id": "17e435be1ebfdae2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-INBOX/2024-05-12-Sign Language (SE).md"
+                "file": "sermons/24-05-12/2024-05-12-Sign Language (EW).md"
               }
             }
           }
@@ -140,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a82dbbe748225c0",
+  "active": "17e435be1ebfdae2",
   "lastOpenFiles": [
+    "sermons/24-05-12/2024-05-12-Sign Language.md",
+    "00-INBOX/2024-05-12-Sign Language (SE).md",
     "sermons/24-05-12/2024-05-12-Sign Language.txt",
     "sermons/24-05-12/2024-05-12-Sign Language (SE).md",
     "sermons/24-05-12/2024-05-12-Sign Language (MS).md",
@@ -150,7 +158,6 @@
     "sermons/24-05012",
     "00-INBOX/2024-05-12-Sign Language.txt",
     "00-INBOX/transcription-med.en-clean-01.txt",
-    "00-INBOX/2024-05-12-Sign Language (SE).md",
     "00-INBOX/2024-05-12-Sign Language (EW).md",
     "00-INBOX/2024-05-12-Sign Language (MS).md",
     "fabric/fabric_setup.md",
