@@ -1,4 +1,4 @@
-# Here are the Sermon texts & AI summarizations
+# Sermon texts & AI summarizations
 
 ### In each folder is:
 
