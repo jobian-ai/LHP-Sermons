@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8af9a5d0f46934",
+        "id": "53f2e420c16e6785",
         "type": "tabs",
         "children": [
           {
-            "id": "fe5ed9a15c4d1a1b",
+            "id": "42a786b6639e3db4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "speech-to-text/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 405.5
   },
   "right": {
     "id": "217be2e53b9c71c0",
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "speech-to-text/README.md",
+                "file": "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "speech-to-text/README.md",
+                "file": "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "speech-to-text/README.md"
+                "file": "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God.md"
               }
             }
           }
@@ -146,8 +142,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe5ed9a15c4d1a1b",
+  "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God (MS).md",
+    "sermons/24-05-05",
+    "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God.md",
+    "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God (EW).md",
+    "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God (SE).md",
+    "speech-to-text/README.md",
     "sermons/24-05-19/2024-05-19-Family.md",
     "sermons/24-05-12/2024-05-12-Sign Language.md",
     "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
@@ -164,7 +166,6 @@
     "fabric/fabric_setup.md",
     "fabric/fabric_use_and_examples.md",
     "00-INBOX",
-    "speech-to-text/README.md",
     "README.md"
   ]
 }
