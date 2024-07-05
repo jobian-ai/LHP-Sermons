@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb23da6fa8db489b",
+        "id": "64c8465525d560bd",
         "type": "tabs",
         "children": [
           {
-            "id": "17e435be1ebfdae2",
+            "id": "83603261a04780c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sermons/24-05-12/2024-05-12-Sign Language (EW).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17e435be1ebfdae2",
+  "active": "83603261a04780c8",
   "lastOpenFiles": [
     "sermons/24-05-12/2024-05-12-Sign Language.md",
+    "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
     "00-INBOX/2024-05-12-Sign Language (SE).md",
     "sermons/24-05-12/2024-05-12-Sign Language.txt",
     "sermons/24-05-12/2024-05-12-Sign Language (SE).md",
     "sermons/24-05-12/2024-05-12-Sign Language (MS).md",
-    "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
     "sermons/24-05-12",
     "sermons/24-05012",
     "00-INBOX/2024-05-12-Sign Language.txt",
