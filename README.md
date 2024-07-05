@@ -1,6 +1,6 @@
 # LHP-Sermons
 
-## Sharing AI transformations of sermons recorded at Living Hope Presbyterian Church 
+## Sharing AI summarizations of sermons recorded at [Living Hope Presbyterian Church ](https://www.livinghopepresbyterian.org/)
 
 _"as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth."_
 
