@@ -2,7 +2,7 @@
 
 ### In each folder is:
 
-1. the 'speech-to-text' file
+1. The 'speech-to-text' file - currently has the .md file extension and not .txt
 2. Three AI "pattern" summarization files
    * file ending with "(MS)" = Micro Summarization pattern
    * file ending with "(SE)" = Sermon Expert pattern
