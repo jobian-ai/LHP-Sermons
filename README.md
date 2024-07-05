@@ -17,4 +17,4 @@ More granular guidance is in the README's of the _speech-to-text_ & _fabric_ fol
 3. Use a prompt in ChatGPT to punctuate and paragraph the raw text file.
 4. With 'Fabric', process the punctuated text file to make summarization files in the Sermon folder.
 
-## REM - Don't Take the Weights out of the Gym!
+## REM - Don't Take the Weights out of the Gym
