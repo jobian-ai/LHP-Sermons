@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4dce9e1294666f9c",
+        "id": "fb23da6fa8db489b",
         "type": "tabs",
         "children": [
           {
-            "id": "3716650e5d2030a0",
+            "id": "17e435be1ebfdae2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
     "id": "217be2e53b9c71c0",
@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00-INBOX/2024-05-12-Sign Language (SE).md"
+              }
             }
           }
         ]
@@ -140,8 +142,20 @@
   },
   "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
-    "00-INBOX",
+    "sermons/24-05-12/2024-05-12-Sign Language.txt",
+    "sermons/24-05-12/2024-05-12-Sign Language (SE).md",
+    "sermons/24-05-12/2024-05-12-Sign Language (MS).md",
+    "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
+    "sermons/24-05-12",
+    "sermons/24-05012",
+    "00-INBOX/2024-05-12-Sign Language.txt",
+    "00-INBOX/transcription-med.en-clean-01.txt",
+    "00-INBOX/2024-05-12-Sign Language (SE).md",
+    "00-INBOX/2024-05-12-Sign Language (EW).md",
+    "00-INBOX/2024-05-12-Sign Language (MS).md",
+    "fabric/fabric_setup.md",
     "fabric/fabric_use_and_examples.md",
+    "00-INBOX",
     "speech-to-text/README.md",
     "README.md"
   ]
