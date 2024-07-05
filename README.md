@@ -4,7 +4,7 @@
 
 _"as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth."_
 
-Nothing here is an original work of mine. I'm leaving the question of: just because you _can_ does it mean you _should?_ unanswered for now.
+Nothing here is an original work of mine.
 
 The project relies most on the work of [Daniel Miessler.](https://www.youtube.com/@unsupervised-learning) His ['Fabric'](https://github.com/danielmiessler/fabric) project was the most inspirational along with [_"Network Chuck's"_](https://www.youtube.com/watch?v=UbDyjIIGaxQ)  step-by-step guide.
 
