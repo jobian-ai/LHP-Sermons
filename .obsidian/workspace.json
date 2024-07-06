@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32f3db8defbc9797",
+        "id": "8ba3697159000f22",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ace6769caafff7",
+            "id": "aa0f3afc3e6fcd48",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5ace6769caafff7",
+  "active": "aa0f3afc3e6fcd48",
   "lastOpenFiles": [
+    "sermons/24-04-07/24-04-07-April Fools (SE).md",
+    "sermons/24-04-07/24-04-07-April Fools (EW).md",
+    "sermons/24-04-07/24-04-07-April Fools.md",
+    "sermons/24-04-07",
+    "sermons/24-04-07/24-04-07-April Fools (MS).md",
     "sermons/24-04-14/2024-04-14-Come to Christ.md",
     "sermons/24-04-14/24-04-14-Come to Christ (EW).md",
     "sermons/24-04-14",
@@ -168,13 +173,8 @@
     "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
     "00-INBOX/2024-05-12-Sign Language (SE).md",
     "sermons/24-05-12/2024-05-12-Sign Language.txt",
-    "sermons/24-05-12/2024-05-12-Sign Language (SE).md",
-    "sermons/24-05-12/2024-05-12-Sign Language (MS).md",
     "sermons/24-05-12",
     "sermons/24-05012",
-    "00-INBOX/2024-05-12-Sign Language.txt",
-    "00-INBOX/transcription-med.en-clean-01.txt",
-    "00-INBOX/2024-05-12-Sign Language (EW).md",
-    "00-INBOX/2024-05-12-Sign Language (MS).md"
+    "00-INBOX/2024-05-12-Sign Language.txt"
   ]
 }
