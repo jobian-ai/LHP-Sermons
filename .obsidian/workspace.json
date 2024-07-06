@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04ceb605e0960cbb",
+        "id": "32f3db8defbc9797",
         "type": "tabs",
         "children": [
           {
-            "id": "824855cb5b11557c",
+            "id": "c5ace6769caafff7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-04-21/24-04-21-Sabbath Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-04-21/24-04-21-Sabbath Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sermons/24-04-21/24-04-21-Sabbath Actions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,8 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a82dbbe748225c0",
+  "active": "c5ace6769caafff7",
   "lastOpenFiles": [
+    "sermons/24-04-14/2024-04-14-Come to Christ.md",
+    "sermons/24-04-14/24-04-14-Come to Christ (EW).md",
+    "sermons/24-04-14",
+    "sermons/24-04-14/24-04-14-Come to Christ (SE).md",
+    "sermons/24-04-14/24-04-14-Come to Christ (MS).md",
     "sermons/24-04-21/24-04-21-Sabbath Actions (SE).md",
     "sermons/24-04-21",
     "sermons/24-04-21/24-04-21-Sabbath Actions (MS).md",
@@ -174,9 +175,6 @@
     "00-INBOX/2024-05-12-Sign Language.txt",
     "00-INBOX/transcription-med.en-clean-01.txt",
     "00-INBOX/2024-05-12-Sign Language (EW).md",
-    "00-INBOX/2024-05-12-Sign Language (MS).md",
-    "fabric/fabric_setup.md",
-    "00-INBOX",
-    "README.md"
+    "00-INBOX/2024-05-12-Sign Language (MS).md"
   ]
 }
