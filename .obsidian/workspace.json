@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ba3697159000f22",
+        "id": "f592dd6d35e74885",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0f3afc3e6fcd48",
+            "id": "9f993279929233b7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md"
+              }
             }
           }
         ]
@@ -138,8 +142,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa0f3afc3e6fcd48",
+  "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (SE).md",
+    "sermons/24-03-31",
+    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (MS).md",
+    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (EW).md",
+    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
     "sermons/24-04-07/24-04-07-April Fools (SE).md",
     "sermons/24-04-07/24-04-07-April Fools (EW).md",
     "sermons/24-04-07/24-04-07-April Fools.md",
@@ -167,14 +176,8 @@
     "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God (MS).md",
     "sermons/24-05-05",
     "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God (EW).md",
-    "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God (SE).md",
-    "sermons/24-05-19/2024-05-19-Family.md",
-    "sermons/24-05-12/2024-05-12-Sign Language.md",
-    "sermons/24-05-12/2024-05-12-Sign Language (EW).md",
-    "00-INBOX/2024-05-12-Sign Language (SE).md",
     "sermons/24-05-12/2024-05-12-Sign Language.txt",
     "sermons/24-05-12",
-    "sermons/24-05012",
-    "00-INBOX/2024-05-12-Sign Language.txt"
+    "sermons/24-05012"
   ]
 }
