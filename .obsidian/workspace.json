@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac4c0a3631b2ea61",
+        "id": "c05505bb827b99fd",
         "type": "tabs",
         "children": [
           {
-            "id": "64e45c7a4529d148",
+            "id": "e5021a4f60cafc36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
+                "file": "speech-to-text/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
+                "file": "speech-to-text/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
+                "file": "speech-to-text/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md"
+                "file": "speech-to-text/README.md"
               }
             }
           }
@@ -146,11 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a82dbbe748225c0",
+  "active": "e5021a4f60cafc36",
   "lastOpenFiles": [
+    "fabric/fabric_use_and_examples.md",
+    "fabric/fabric_setup.md",
+    "fabric/README.md",
+    "sermons/README.md",
+    "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
     "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (SE).md",
     "sermons/24-03-17",
-    "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
     "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (MS).md",
     "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (EW).md",
     "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md",
@@ -160,10 +164,6 @@
     "sermons/24-03-24",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (EW).md",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (SE).md",
-    "sermons/README.md",
-    "fabric/README.md",
-    "fabric/fabric_setup.md",
-    "fabric/fabric_use_and_examples.md",
     "speech-to-text/README.md",
     "README.md",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
