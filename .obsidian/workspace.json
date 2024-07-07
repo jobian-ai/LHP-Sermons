@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c05505bb827b99fd",
+        "id": "b5520f58974a863d",
         "type": "tabs",
         "children": [
           {
-            "id": "e5021a4f60cafc36",
+            "id": "2da6c15fa8e6aab9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "speech-to-text/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "speech-to-text/README.md",
+                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "speech-to-text/README.md",
+                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "speech-to-text/README.md"
+                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md"
               }
             }
           }
@@ -146,8 +142,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5021a4f60cafc36",
+  "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy(SE).md",
+    "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (MS).md",
+    "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (EW).md",
+    "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md",
+    "README.md",
+    "sermons/24-03-10",
+    "speech-to-text/README.md",
     "fabric/fabric_use_and_examples.md",
     "fabric/fabric_setup.md",
     "fabric/README.md",
@@ -164,8 +167,6 @@
     "sermons/24-03-24",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (EW).md",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (SE).md",
-    "speech-to-text/README.md",
-    "README.md",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
     "sermons/24-03-31",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (MS).md",
@@ -173,15 +174,10 @@
     "sermons/24-04-07/24-04-07-April Fools (EW).md",
     "sermons/24-04-07/24-04-07-April Fools.md",
     "sermons/24-04-07",
-    "sermons/24-04-07/24-04-07-April Fools (MS).md",
-    "sermons/24-04-14/2024-04-14-Come to Christ.md",
-    "sermons/24-04-14/24-04-14-Come to Christ (EW).md",
     "sermons/24-04-14",
-    "sermons/24-04-14/24-04-14-Come to Christ (SE).md",
     "sermons/24-04-21",
     "00-INBOX/24-04-21-Sabbath Actions.txt",
     "sermons/24-04-28",
-    "sermons/24-05-05",
-    "sermons/24-05-12/2024-05-12-Sign Language.txt"
+    "sermons/24-05-05"
   ]
 }
