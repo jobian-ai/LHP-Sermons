@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4839db3a213700f6",
+        "id": "ac4c0a3631b2ea61",
         "type": "tabs",
         "children": [
           {
-            "id": "2bd0fd3550667ef5",
+            "id": "64e45c7a4529d148",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md",
+                "file": "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md",
+                "file": "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md"
+                "file": "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md"
               }
             }
           }
@@ -144,8 +148,13 @@
   },
   "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
-    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (SE).md",
+    "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (SE).md",
+    "sermons/24-03-17",
+    "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
+    "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (MS).md",
+    "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (EW).md",
     "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md",
+    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (SE).md",
     "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (MS).md",
     "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (EW).md",
     "sermons/24-03-24",
@@ -169,16 +178,10 @@
     "sermons/24-04-14/24-04-14-Come to Christ (EW).md",
     "sermons/24-04-14",
     "sermons/24-04-14/24-04-14-Come to Christ (SE).md",
-    "sermons/24-04-14/24-04-14-Come to Christ (MS).md",
-    "sermons/24-04-21/24-04-21-Sabbath Actions (SE).md",
     "sermons/24-04-21",
-    "sermons/24-04-21/24-04-21-Sabbath Actions (MS).md",
-    "sermons/24-04-21/24-04-21-Sabbath Actions (EW).md",
-    "sermons/24-04-21/24-04-21-Sabbath Actions.md",
     "00-INBOX/24-04-21-Sabbath Actions.txt",
     "sermons/24-04-28",
     "sermons/24-05-05",
-    "sermons/24-05-12/2024-05-12-Sign Language.txt",
-    "sermons/24-05-12"
+    "sermons/24-05-12/2024-05-12-Sign Language.txt"
   ]
 }
