@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f592dd6d35e74885",
+        "id": "4839db3a213700f6",
         "type": "tabs",
         "children": [
           {
-            "id": "9f993279929233b7",
+            "id": "2bd0fd3550667ef5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
+                "file": "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
+                "file": "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md"
+                "file": "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md"
               }
             }
           }
@@ -144,11 +144,22 @@
   },
   "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (SE).md",
+    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md",
+    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (MS).md",
+    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (EW).md",
+    "sermons/24-03-24",
+    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (EW).md",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (SE).md",
+    "sermons/README.md",
+    "fabric/README.md",
+    "fabric/fabric_setup.md",
+    "fabric/fabric_use_and_examples.md",
+    "speech-to-text/README.md",
+    "README.md",
+    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
     "sermons/24-03-31",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (MS).md",
-    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (EW).md",
-    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
     "sermons/24-04-07/24-04-07-April Fools (SE).md",
     "sermons/24-04-07/24-04-07-April Fools (EW).md",
     "sermons/24-04-07/24-04-07-April Fools.md",
@@ -164,20 +175,10 @@
     "sermons/24-04-21/24-04-21-Sabbath Actions (MS).md",
     "sermons/24-04-21/24-04-21-Sabbath Actions (EW).md",
     "sermons/24-04-21/24-04-21-Sabbath Actions.md",
-    "sermons/24-04-28/24-04-28-Fulfillment.md",
     "00-INBOX/24-04-21-Sabbath Actions.txt",
-    "sermons/24-04-28/24-04-28-Fulfillment (SE).md",
-    "sermons/24-04-28/24-04-28-Fulfillment (MS).md",
-    "sermons/24-04-28/24-04-28-Fulfillment (EW).md",
-    "speech-to-text/README.md",
     "sermons/24-04-28",
-    "fabric/fabric_use_and_examples.md",
-    "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God.md",
-    "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God (MS).md",
     "sermons/24-05-05",
-    "sermons/24-05-05/24-05-05-The Coming of the Kingdom of God (EW).md",
     "sermons/24-05-12/2024-05-12-Sign Language.txt",
-    "sermons/24-05-12",
-    "sermons/24-05012"
+    "sermons/24-05-12"
   ]
 }
