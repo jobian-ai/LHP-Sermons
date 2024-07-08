@@ -11,8 +11,12 @@
             "id": "e68c8366adbce57b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sermons/24-02-04/24-02-04 - Comings and Goings.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sermons/24-02-04/24-02-04 - Comings and Goings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sermons/24-02-04/24-02-04 - Comings and Goings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sermons/24-02-04/24-02-04 - Comings and Goings.md"
+              }
             }
           }
         ]
@@ -138,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e68c8366adbce57b",
+  "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-02-04/24-02-04 - Comings and Goings (SE).md",
+    "sermons/24-02-04",
+    "sermons/24-02-04/24-02-04 - Comings and Goings (EW).md",
+    "sermons/24-02-04/24-02-04 - Comings and Goings (MS).md",
+    "sermons/24-02-04/24-02-04 - Comings and Goings.md",
     "sermons/24-02-11/24-02-11 - The Greatest Authority of All.md",
     "sermons/24-02-11",
     "sermons/24-02-11/24-02-11 - The Greatest Authority of All (SE).md",
@@ -165,15 +178,10 @@
     "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call (EW).md",
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (MS).md",
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (EW).md",
-    "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md",
     "sermons/24-03-10",
-    "fabric/fabric_use_and_examples.md",
-    "fabric/fabric_setup.md",
-    "fabric/README.md",
     "sermons/24-03-17",
     "sermons/24-03-24",
     "sermons/24-03-31",
-    "sermons/24-04-07",
-    "sermons/24-04-14"
+    "sermons/24-04-07"
   ]
 }
