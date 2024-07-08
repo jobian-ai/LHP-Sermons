@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
+                "file": "00-INBOX/24-02-11 - The Greatest Authority of All.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
+                "file": "00-INBOX/24-02-11 - The Greatest Authority of All.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
+                "file": "00-INBOX/24-02-11 - The Greatest Authority of All.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md"
+                "file": "00-INBOX/24-02-11 - The Greatest Authority of All.md"
               }
             }
           }
@@ -146,14 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a82dbbe748225c0",
+  "active": "158e22fa812b26ed",
   "lastOpenFiles": [
+    "00-INBOX/24-02-11 - The Greatest Authority of All (SE).md",
+    "00-INBOX/24-02-11 - The Greatest Authority of All (MS).md",
+    "speech-to-text/README.md",
+    "README.md",
+    "00-INBOX/24-02-11 - The Greatest Authority of All (EW).md",
+    "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
+    "00-INBOX/24-02-11 - The Greatest Authority of All.md",
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice (SE).md",
     "sermons/24-02-18",
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice (MS).md",
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice (EW).md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md",
-    "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised (MS).md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised (EW).md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised.md",
@@ -167,17 +173,12 @@
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (MS).md",
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (EW).md",
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md",
-    "README.md",
     "sermons/24-03-10",
-    "speech-to-text/README.md",
     "fabric/fabric_use_and_examples.md",
     "fabric/fabric_setup.md",
     "fabric/README.md",
     "sermons/README.md",
-    "sermons/24-03-17/24-03-17 - Discipleship 101 - Battling Fears.md",
-    "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (SE).md",
     "sermons/24-03-17",
-    "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (MS).md",
     "sermons/24-03-24",
     "sermons/24-03-31",
     "sermons/24-04-07",
