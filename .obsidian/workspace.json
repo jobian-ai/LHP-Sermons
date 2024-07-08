@@ -11,8 +11,12 @@
             "id": "2da6c15fa8e6aab9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy(SE).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md",
+                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy(SE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md",
+                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy(SE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy.md"
+                "file": "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy(SE).md"
               }
             }
           }
@@ -142,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a82dbbe748225c0",
+  "active": "2da6c15fa8e6aab9",
   "lastOpenFiles": [
+    "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call.md",
+    "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call(SE).md",
+    "sermons/24-03-03",
+    "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call (MS).md",
+    "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call (EW).md",
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy(SE).md",
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (MS).md",
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (EW).md",
@@ -169,15 +178,10 @@
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (SE).md",
     "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing.md",
     "sermons/24-03-31",
-    "sermons/24-03-31/24-03-31-Seeing-Hearing-Believing (MS).md",
-    "sermons/24-04-07/24-04-07-April Fools (SE).md",
-    "sermons/24-04-07/24-04-07-April Fools (EW).md",
-    "sermons/24-04-07/24-04-07-April Fools.md",
     "sermons/24-04-07",
     "sermons/24-04-14",
     "sermons/24-04-21",
     "00-INBOX/24-04-21-Sabbath Actions.txt",
-    "sermons/24-04-28",
-    "sermons/24-05-05"
+    "sermons/24-04-28"
   ]
 }
