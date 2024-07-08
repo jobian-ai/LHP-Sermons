@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "16be073d16f9bae0",
+        "id": "25aa9bfed67cd135",
         "type": "tabs",
         "children": [
           {
-            "id": "158e22fa812b26ed",
+            "id": "e68c8366adbce57b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-INBOX/24-02-11 - The Greatest Authority of All.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-INBOX/24-02-11 - The Greatest Authority of All.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-INBOX/24-02-11 - The Greatest Authority of All.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00-INBOX/24-02-11 - The Greatest Authority of All.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "158e22fa812b26ed",
+  "active": "e68c8366adbce57b",
   "lastOpenFiles": [
-    "00-INBOX/24-02-11 - The Greatest Authority of All (SE).md",
-    "00-INBOX/24-02-11 - The Greatest Authority of All (MS).md",
+    "sermons/24-02-11/24-02-11 - The Greatest Authority of All.md",
+    "sermons/24-02-11",
+    "sermons/24-02-11/24-02-11 - The Greatest Authority of All (SE).md",
+    "sermons/24-02-11/24-02-11 - The Greatest Authority of All (MS).md",
     "speech-to-text/README.md",
     "README.md",
-    "00-INBOX/24-02-11 - The Greatest Authority of All (EW).md",
+    "sermons/24-02-11/24-02-11 - The Greatest Authority of All (EW).md",
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
-    "00-INBOX/24-02-11 - The Greatest Authority of All.md",
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice (SE).md",
     "sermons/24-02-18",
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice (MS).md",
@@ -177,12 +170,10 @@
     "fabric/fabric_use_and_examples.md",
     "fabric/fabric_setup.md",
     "fabric/README.md",
-    "sermons/README.md",
     "sermons/24-03-17",
     "sermons/24-03-24",
     "sermons/24-03-31",
     "sermons/24-04-07",
-    "sermons/24-04-14",
-    "sermons/24-04-21"
+    "sermons/24-04-14"
   ]
 }
