@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md",
+                "file": "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md",
+                "file": "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md",
+                "file": "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md"
+                "file": "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md"
               }
             }
           }
@@ -146,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "158e22fa812b26ed",
+  "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-02-18/24-02-18-Mercy of Sacrifice (SE).md",
+    "sermons/24-02-18",
+    "sermons/24-02-18/24-02-18-Mercy of Sacrifice (MS).md",
+    "sermons/24-02-18/24-02-18-Mercy of Sacrifice (EW).md",
+    "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md",
+    "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised (MS).md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised (EW).md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised.md",
-    "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md",
     "sermons/24-02-25",
     "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy(SE).md",
     "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call.md",
@@ -173,15 +178,10 @@
     "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (SE).md",
     "sermons/24-03-17",
     "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (MS).md",
-    "sermons/24-03-17/24-03-17-Discipleship 101 - Battling Fears (EW).md",
-    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards.md",
-    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (SE).md",
-    "sermons/24-03-24/24-03-24-Discipleship 101 - Swords and Rewards (MS).md",
     "sermons/24-03-24",
     "sermons/24-03-31",
     "sermons/24-04-07",
     "sermons/24-04-14",
-    "sermons/24-04-21",
-    "00-INBOX/24-04-21-Sabbath Actions.txt"
+    "sermons/24-04-21"
   ]
 }
