@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6046976c442b9ad4",
+        "id": "bf660fb6d2e4ba3a",
         "type": "tabs",
         "children": [
           {
-            "id": "f0aaa410e9946340",
+            "id": "9b9b8f86dca9aa48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sermons/24-01-21/24-01-21 - Following Jesus.md",
+                "file": "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-01-21/24-01-21 - Following Jesus.md",
+                "file": "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-01-21/24-01-21 - Following Jesus.md",
+                "file": "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sermons/24-01-21/24-01-21 - Following Jesus.md"
+                "file": "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings (SE).md",
+    "sermons/24-01-14",
+    "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings (MS).md",
+    "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings (EW).md",
+    "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings.md",
+    "sermons/24-01-21/24-01-21 - Following Jesus.md",
     "sermons/24-01-21",
     "sermons/Untitled.md",
-    "sermons/24-01-21/24-01-21 - Following Jesus.md",
     "sermons/24-01-21/24-01-21 - Following Jesus (SE).md",
     "sermons/24-01-21/24-01-21 - Following Jesus (MS).md",
     "sermons/24-01-21/24-01-21 - Following Jesus (EW).md",
@@ -174,15 +179,9 @@
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice.md",
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice (SE).md",
     "sermons/24-02-18",
-    "sermons/24-02-18/24-02-18-Mercy of Sacrifice (MS).md",
-    "sermons/24-02-18/24-02-18-Mercy of Sacrifice (EW).md",
-    "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md",
-    "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised (MS).md",
     "sermons/24-02-25",
     "sermons/24-03-03",
     "sermons/24-03-10",
-    "sermons/24-03-17",
-    "sermons/24-03-24",
-    "sermons/24-03-31"
+    "sermons/24-03-17"
   ]
 }
