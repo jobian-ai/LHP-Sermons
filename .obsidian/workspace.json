@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "783c21529d959562",
+        "id": "6046976c442b9ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "1229589009f58228",
+            "id": "f0aaa410e9946340",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sermons/24-01-21/24-01-21 - Following Jesus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sermons/24-01-21/24-01-21 - Following Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sermons/24-01-21/24-01-21 - Following Jesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sermons/24-01-21/24-01-21 - Following Jesus.md"
+              }
             }
           }
         ]
@@ -138,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1229589009f58228",
+  "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-01-21",
+    "sermons/Untitled.md",
+    "sermons/24-01-21/24-01-21 - Following Jesus.md",
+    "sermons/24-01-21/24-01-21 - Following Jesus (SE).md",
+    "sermons/24-01-21/24-01-21 - Following Jesus (MS).md",
+    "sermons/24-01-21/24-01-21 - Following Jesus (EW).md",
     "sermons/24-01-28/24-01-28-What Sort of Man is This.md",
     "sermons/24-01-28/24-01-28-What Sort of Man is This (SE).md",
     "sermons/24-01-28",
@@ -164,14 +178,8 @@
     "sermons/24-02-18/24-02-18-Mercy of Sacrifice (EW).md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised(SE).md",
     "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised (MS).md",
-    "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised (EW).md",
-    "sermons/24-02-25/24-02-25 - Is This the One - The Dead are Raised.md",
     "sermons/24-02-25",
-    "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy(SE).md",
-    "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call.md",
-    "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call(SE).md",
     "sermons/24-03-03",
-    "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call (MS).md",
     "sermons/24-03-10",
     "sermons/24-03-17",
     "sermons/24-03-24",
