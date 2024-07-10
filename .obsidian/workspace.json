@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "25aa9bfed67cd135",
+        "id": "783c21529d959562",
         "type": "tabs",
         "children": [
           {
-            "id": "e68c8366adbce57b",
+            "id": "1229589009f58228",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sermons/24-02-04/24-02-04 - Comings and Goings.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sermons/24-02-04/24-02-04 - Comings and Goings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sermons/24-02-04/24-02-04 - Comings and Goings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sermons/24-02-04/24-02-04 - Comings and Goings.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a82dbbe748225c0",
+  "active": "1229589009f58228",
   "lastOpenFiles": [
+    "sermons/24-01-28/24-01-28-What Sort of Man is This.md",
+    "sermons/24-01-28/24-01-28-What Sort of Man is This (SE).md",
+    "sermons/24-01-28",
+    "sermons/24-01-28/24-01-28-What Sort of Man is This (MS).md",
+    "sermons/24-01-28/24-01-28-What Sort of Man is This (EW).md",
     "sermons/24-02-04/24-02-04 - Comings and Goings (SE).md",
     "sermons/24-02-04",
     "sermons/24-02-04/24-02-04 - Comings and Goings (EW).md",
@@ -175,13 +172,9 @@
     "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call(SE).md",
     "sermons/24-03-03",
     "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call (MS).md",
-    "sermons/24-03-03/24-03-03-Discipleship 101 - The Need and the Call (EW).md",
-    "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (MS).md",
-    "sermons/24-03-10/24-03-10-Discipleship 101 - This Won’t Be Easy (EW).md",
     "sermons/24-03-10",
     "sermons/24-03-17",
     "sermons/24-03-24",
-    "sermons/24-03-31",
-    "sermons/24-04-07"
+    "sermons/24-03-31"
   ]
 }
