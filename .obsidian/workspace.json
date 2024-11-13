@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3978471f82410b8",
+        "id": "085de49830aa6632",
         "type": "tabs",
         "children": [
           {
-            "id": "403fb2e66cdc70b4",
+            "id": "97e5ccf808ce76c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sermons/24-11-10/2024-11-10-The Rich Young Ruler (EW).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-11-10-The Rich Young Ruler (EW)"
             }
           }
         ]
@@ -146,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,10 +161,10 @@
   },
   "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
+    "sermons/24-11-10/2024-11-10-The Rich Young Ruler (SE).md",
+    "sermons/24-11-10/2024-11-10-The Rich Young Ruler (MS).md",
     "conflict-files-obsidian-git.md",
-    "sermons/24-11-10/2024-11-12-2024-11-10-The Rich Young Rullers (EW).md",
-    "sermons/24-11-10/2024-11-12-2024-11-10-The Rich Young Ruller (SE).md",
-    "sermons/24-11-10/2024-11-12-2024-11-10-The Rich Young Ruller (MS).md",
+    "sermons/24-11-10/2024-11-10-The Rich Young Ruler (EW).md",
     "sermons/24-11-10",
     "sermons/24-07-07/24-07-07 - The Feast of Jesus.md",
     "sermons/24-07-07/24-07-07 - The Feast of Jesus (SE).md",
