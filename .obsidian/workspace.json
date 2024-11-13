@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "085de49830aa6632",
+        "id": "e8ab4cd0f3e614a7",
         "type": "tabs",
         "children": [
           {
-            "id": "97e5ccf808ce76c0",
+            "id": "f3410e7af739148e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sermons/24-11-10/2024-11-10-The Rich Young Ruler (EW).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-11-10-The Rich Young Ruler (EW)"
+              "title": "New tab"
             }
           }
         ]
@@ -159,12 +155,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a82dbbe748225c0",
+  "active": "f3410e7af739148e",
   "lastOpenFiles": [
+    "sermons/24-11-10/2024-11-13-Rich Young Ruler (TWEET).md",
+    "fabric/fabric_use_and_examples.md",
     "sermons/24-11-10/2024-11-10-The Rich Young Ruler (SE).md",
+    "fabric/fabric_setup.md",
+    "fabric/README.md",
+    "speech-to-text/README.md",
+    "00-INBOX/2024-09-02-Society Is A Ponzi Scheme - Warning On Population Collapse & Hopeless Generation ｜ Eric Weinstein [18bhyZIFXF4] (EW).md",
+    "sermons/24-11-10/2024-11-10-The Rich Young Ruler (EW).md",
     "sermons/24-11-10/2024-11-10-The Rich Young Ruler (MS).md",
     "conflict-files-obsidian-git.md",
-    "sermons/24-11-10/2024-11-10-The Rich Young Ruler (EW).md",
     "sermons/24-11-10",
     "sermons/24-07-07/24-07-07 - The Feast of Jesus.md",
     "sermons/24-07-07/24-07-07 - The Feast of Jesus (SE).md",
@@ -186,13 +188,7 @@
     "sermons/24-01-28/24-01-28-What Sort of Man is This (SE).md",
     "sermons/24-01-28",
     "sermons/24-01-28/24-01-28-What Sort of Man is This (MS).md",
-    "sermons/24-01-28/24-01-28-What Sort of Man is This (EW).md",
-    "sermons/24-02-04/24-02-04 - Comings and Goings (SE).md",
     "sermons/24-02-04",
-    "sermons/24-02-04/24-02-04 - Comings and Goings (EW).md",
-    "sermons/24-02-04/24-02-04 - Comings and Goings (MS).md",
-    "sermons/24-02-04/24-02-04 - Comings and Goings.md",
-    "sermons/24-02-11/24-02-11 - The Greatest Authority of All.md",
     "sermons/24-02-11",
     "sermons/24-02-18",
     "sermons/24-02-25",
