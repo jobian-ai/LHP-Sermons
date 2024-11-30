@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ab4cd0f3e614a7",
+        "id": "3422876d54a52edc",
         "type": "tabs",
         "children": [
           {
-            "id": "f3410e7af739148e",
+            "id": "733d16cf9f815698",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3410e7af739148e",
+  "active": "733d16cf9f815698",
   "lastOpenFiles": [
     "sermons/24-11-10/2024-11-13-Rich Young Ruler (TWEET).md",
     "fabric/fabric_use_and_examples.md",
