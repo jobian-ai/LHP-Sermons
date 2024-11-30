@@ -4,3 +4,7 @@ vevn/
 00-INBOX/
 .obsidian/
 *.db
+
+# More Stuff to Exclude:
+
+README.tmp
