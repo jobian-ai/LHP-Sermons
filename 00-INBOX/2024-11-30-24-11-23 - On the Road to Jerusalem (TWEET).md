@@ -1,1 +1,0 @@
-🌟 Good morning, Twitterverse! 🌞 Dive into Matthew 20 with me today as we explore the teachings of Jesus on greatness in the kingdom of heaven. 📖 Let's reflect on humility, servanthood, and the transformative power of Christ's message. 🙏 #Gospel #Humility #ServantLeadership 🕊️
