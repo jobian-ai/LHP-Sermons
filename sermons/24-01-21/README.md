@@ -16,3 +16,14 @@ ___
 - **#RadicalDiscipleship** - Captures the theme of the complete and radical commitment required to follow Jesus.
 - **#NoHigherAllegiance** - Reflects the idea of prioritizing Jesus above all other commitments or obligations.
 - **#SacrificeForChrist** - Emphasizes the sacrifices involved in following Jesus, even when it involves leaving behind what is familiar or comfortable.
+
+___
+
+If present, filenames in this folder ending in:
+
+- (EW) = Extracted Wisdom
+- (MS) = Micro Summary
+- (SE) =  Sermon Expert
+- (TWEET) = Tweet
+
+These are the names of AI prompts used to create the summarization based on the text of the sermon.

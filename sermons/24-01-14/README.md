@@ -16,3 +16,14 @@ ___
 - **#HealingAuthority** - Reflects Jesus' power and authority to heal, both physically and spiritually.
 - **#CompassionOfChrist** - Emphasizes Jesus' compassion towards the sick and marginalized.
 - **#FaithAndHealing**- Highlights how faith plays a crucial role in the healing encounters, pointing to spiritual salvation through faith in Jesus.
+
+___
+
+If present, filenames in this folder ending in:
+
+- (EW) = Extracted Wisdom
+- (MS) = Micro Summary
+- (SE) =  Sermon Expert
+- (TWEET) = Tweet
+
+These are the names of AI prompts used to create the summarization based on the text of the sermon.
