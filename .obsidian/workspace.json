@@ -11,10 +11,14 @@
             "id": "733d16cf9f815698",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sermons/24-01-21/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -157,6 +161,8 @@
   },
   "active": "733d16cf9f815698",
   "lastOpenFiles": [
+    "sermons/24-01-14/README.md",
+    "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings.md",
     "sermons/24-11-10/2024-11-13-Rich Young Ruler (TWEET).md",
     "fabric/fabric_use_and_examples.md",
     "sermons/24-11-10/2024-11-10-The Rich Young Ruler (SE).md",
@@ -173,7 +179,6 @@
     "sermons/24-07-07",
     "sermons/24-07-07/24-07-07 - The Feast of Jesus (MS).md",
     "sermons/24-07-07/24-07-07 - The Feast of Jesus (EW).md",
-    "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings.md",
     "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings (SE).md",
     "sermons/24-01-14",
     "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings (MS).md",
@@ -187,7 +192,6 @@
     "sermons/24-01-28/24-01-28-What Sort of Man is This.md",
     "sermons/24-01-28/24-01-28-What Sort of Man is This (SE).md",
     "sermons/24-01-28",
-    "sermons/24-01-28/24-01-28-What Sort of Man is This (MS).md",
     "sermons/24-02-04",
     "sermons/24-02-11",
     "sermons/24-02-18",

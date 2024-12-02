@@ -1,13 +1,11 @@
 # Living Hope Presbyterian Church (PCA)
 ___
 
-[Church Website](https://www.livinghopepresbyterian.org/)
-
-[YouTube Channel](https://www.youtube.com/@LivingHopePresbyterianChurch)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-01-14)
 
 ## 2024-01-14-LHP-Life_and_Ministry_of_Jesus
 
-### A Concise Tweet about the Sermon:
+### A Concise Tweet about this Sermon:
 
 ```"Jesus' healings in Matthew 8 reveal His authority & compassion, symbolizing not just physical healing but spiritual salvation. #SermonSummary #Healing #Faith"```
 
