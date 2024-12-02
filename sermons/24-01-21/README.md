@@ -26,4 +26,4 @@ If present, filenames in this folder ending in:
 - (SE) =  Sermon Expert
 - (TWEET) = Tweet
 
-These are the names of AI prompts used to create the summarization based on the text of the sermon.
+indicate the name of the AI prompt used to create the summarization based on the text of the sermon.  For more information see the [Sermon Project](https://github.com/jobian-ai/LHP-Sermons/tree/main) notes on GitHub.
