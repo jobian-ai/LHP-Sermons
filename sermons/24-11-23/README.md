@@ -1,7 +1,7 @@
 # Living Hope Presbyterian Church (PCA)
 ___
 
-## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-01-14)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-11-23)
 
 ## 2024-11-23 - On the Road to Jerusalem
 
