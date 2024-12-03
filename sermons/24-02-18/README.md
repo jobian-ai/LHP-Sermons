@@ -1,0 +1,17 @@
+# Living Hope Presbyterian Church (PCA)
+
+___
+
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-01-28)
+
+## 2024-02-18 - Mercy and Sacrifice
+
+### A Concise Tweet about this Sermon
+
+```"From Colson's redemption to Jesus with tax collectors, the gospel's scandal is its transformative mercy. #SermonSummary #GospelPower"```
+
+### Other possible hashtags
+
+- **#RedemptionStories** - Reflects the transformative narratives like that of Chuck Colson's conversion
+- **#MercyOverSacrifice** - Highlights Jesus' emphasis on mercy rather than mere religious observance
+- **#GospelScandal** - Captures the theme of the gospel being scandalous as it reaches out to the seemingly unredeemable
