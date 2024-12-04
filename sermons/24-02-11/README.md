@@ -15,3 +15,13 @@ ___
 - **#HealingAuthority** - Reflects Jesus' power to forgive sins and heal, linking spiritual and physical healing
 - **#FaithAndObedience** - Emphasizes the sermon's focus on the necessary combination of faith and obedience in following Christ
 - **#ForgivenessTransforms** - Highlights the transformative impact of forgiveness as demonstrated in the story
+___
+
+If present, filenames in this folder ending in:
+
+- (EW) = Extracted Wisdom
+- (MS) = Micro Summary
+- (SE) =  Sermon Expert
+- (TWEET) = Tweet
+
+indicate the name of the AI prompt used to create the summarization based on the text of the sermon.  For more information see the [Sermon Project](https://github.com/jobian-ai/LHP-Sermons/tree/main) notes on GitHub.

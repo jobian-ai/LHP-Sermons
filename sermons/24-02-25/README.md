@@ -15,3 +15,13 @@ ___
 - **#MiraclesAndFaith** - Connects the miracles performed by Jesus with the faith required to receive healing
 - **#JesusAuthority** - Highlights the theme of Jesus' authority over all aspects of life and death
 - **#MessiahRecognition** - Focuses on the recognition of Jesus as the Messiah through His works and miracles
+___
+
+If present, filenames in this folder ending in:
+
+- (EW) = Extracted Wisdom
+- (MS) = Micro Summary
+- (SE) =  Sermon Expert
+- (TWEET) = Tweet
+
+indicate the name of the AI prompt used to create the summarization based on the text of the sermon.  For more information see the [Sermon Project](https://github.com/jobian-ai/LHP-Sermons/tree/main) notes on GitHub.

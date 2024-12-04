@@ -5,6 +5,7 @@ vevn/
 .obsidian/
 *.db
 TEST/
+*.ipynb
 
 # More Stuff to Exclude:
 

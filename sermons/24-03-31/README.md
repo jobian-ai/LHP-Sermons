@@ -4,17 +4,17 @@ ___
 
 ## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-01-28)
 
-## 2024-02-04-LHP-Comings_and_Goings
+## 24-03-31-Seeing-Hearing-Believing
 
 ### A Concise Tweet about this Sermon
 
-```"Jesus' authority over nature & evil demands total commitment. Will we choose His reign over our comforts? #SermonSummary #AuthorityOfJesus"```
+```"Jesus affirms his Messiahship to John's disciples through miracles. Embrace Him for blessings & eternal life. #SermonSummary #FaithInChrist"```
 
-### Other possible hashtags:
+### Other possible hashtags
 
-- **#JesusAuthority** - Highlights Jesus' control over creation, demons, and spiritual forces.
-- **#TotalCommitment** - Focuses on the sermon's theme of wholeheartedly following Jesus.
-- **#RejectingTheGospel** - Reflects the narrative's lesson on the dangers of rejecting Jesus and the Gospel.
+- **#UnOffendedByJesus** - Reflects the sermon's call to not be offended by Jesus and to accept him fully.
+- **#BlessingsInChrist** - Focuses on the blessings, forgiveness, and eternal life that come from embracing Jesus.
+- **#MessiahIdentity** - Points to the theme of verifying and affirming Jesus' identity as the Messiah through his deeds.
 ___
 
 If present, filenames in this folder ending in:

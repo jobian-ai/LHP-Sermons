@@ -4,17 +4,17 @@ ___
 
 ## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-01-28)
 
-## 2024-02-04-LHP-Comings_and_Goings
+## 24-04-28-Fulfillment
 
 ### A Concise Tweet about this Sermon
 
-```"Jesus' authority over nature & evil demands total commitment. Will we choose His reign over our comforts? #SermonSummary #AuthorityOfJesus"```
+```"Jesus, the humble servant, gently uplifts the broken, embodying hope and justice. #SermonSummary #CompassionInChrist"```
 
-### Other possible hashtags:
+### Other possible hashtags
 
-- **#JesusAuthority** - Highlights Jesus' control over creation, demons, and spiritual forces.
-- **#TotalCommitment** - Focuses on the sermon's theme of wholeheartedly following Jesus.
-- **#RejectingTheGospel** - Reflects the narrative's lesson on the dangers of rejecting Jesus and the Gospel.
+- **#ServantLeadership** - Reflects Jesus' role as a servant leader, emphasizing humility and compassion.
+- **#GentleStrength** - Captures the theme of Jesus' gentle yet powerful ministry, particularly towards the vulnerable.
+- **#HopeInChrist** - Focuses on the sermon's theme of finding hope in Jesus' victory and identity.
 ___
 
 If present, filenames in this folder ending in:

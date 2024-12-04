@@ -4,17 +4,17 @@ ___
 
 ## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-01-28)
 
-## 2024-02-04-LHP-Comings_and_Goings
+## 24-03-10-Discipleship 101 - This Won’t Be Easy
 
 ### A Concise Tweet about this Sermon
 
-```"Jesus' authority over nature & evil demands total commitment. Will we choose His reign over our comforts? #SermonSummary #AuthorityOfJesus"```
+```"Jesus sends out His disciples to proclaim the kingdom, teaching them to be wise, innocent, and enduring. #SermonSummary #Discipleship"```
 
-### Other possible hashtags:
+### Other possible hashtags
 
-- **#JesusAuthority** - Highlights Jesus' control over creation, demons, and spiritual forces.
-- **#TotalCommitment** - Focuses on the sermon's theme of wholeheartedly following Jesus.
-- **#RejectingTheGospel** - Reflects the narrative's lesson on the dangers of rejecting Jesus and the Gospel.
+- **#SentWithPurpose** - Reflects Jesus sending out the apostles with a clear mission.
+- **#EnduranceInFaith** - Emphasizes the need to endure in faith despite opposition.
+- **#WiseAndInnocent** - Captures the instruction for disciples to be both cautious and pure-hearted.
 ___
 
 If present, filenames in this folder ending in:

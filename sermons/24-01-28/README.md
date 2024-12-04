@@ -15,3 +15,13 @@ ___
 - **#FaithOverFear** - Emphasizes the choice between fear and faith during life's storms.
 - **#JesusCalmsStorms** - Represents Jesus' divine authority and compassion in calming both literal and metaphorical storms.
 - **#TrustInTheBoat** - Highlights the idea of being with Jesus in life's challenges, emphasizing trust and presence.
+___
+
+If present, filenames in this folder ending in:
+
+- (EW) = Extracted Wisdom
+- (MS) = Micro Summary
+- (SE) =  Sermon Expert
+- (TWEET) = Tweet
+
+indicate the name of the AI prompt used to create the summarization based on the text of the sermon.  For more information see the [Sermon Project](https://github.com/jobian-ai/LHP-Sermons/tree/main) notes on GitHub.

@@ -15,3 +15,13 @@ ___
 - **#RedemptionStories** - Reflects the transformative narratives like that of Chuck Colson's conversion
 - **#MercyOverSacrifice** - Highlights Jesus' emphasis on mercy rather than mere religious observance
 - **#GospelScandal** - Captures the theme of the gospel being scandalous as it reaches out to the seemingly unredeemable
+___
+
+If present, filenames in this folder ending in:
+
+- (EW) = Extracted Wisdom
+- (MS) = Micro Summary
+- (SE) =  Sermon Expert
+- (TWEET) = Tweet
+
+indicate the name of the AI prompt used to create the summarization based on the text of the sermon.  For more information see the [Sermon Project](https://github.com/jobian-ai/LHP-Sermons/tree/main) notes on GitHub.
