@@ -8,3 +8,5 @@ vevn/
 # More Stuff to Exclude:
 
 README.tmp
+*.ipynb
+*.py
