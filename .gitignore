@@ -4,6 +4,7 @@ vevn/
 00-INBOX/
 .obsidian/
 *.db
+TEST/
 
 # More Stuff to Exclude:
 
