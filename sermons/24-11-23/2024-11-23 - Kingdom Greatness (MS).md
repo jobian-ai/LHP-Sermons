@@ -10,3 +10,5 @@ TAKEAWAYS:
 - True greatness in God's kingdom comes from serving others.
 - Humility and meekness are essential in following Jesus.
 - Seeking personal glory goes against the principles of Christ's kingdom.
+
+EOF
