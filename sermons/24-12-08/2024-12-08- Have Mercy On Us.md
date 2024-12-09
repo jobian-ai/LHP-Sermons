@@ -50,10 +50,6 @@ The light is hidden away, and people are taught, "Here are ten tips for a better
 
 With that rejection of the gospel and refusal to teach it comes a flood of substitutes and idols in people's lives. Everyone knows they need something.  
 
-Certainly! Picking up where we left off:
-
----
-
 And so, there's this incredible inward need that's just filled up with distractions forever—idols for us to worship. Idols like body image, family, work, money, or some god we create in our own imagination. Anything that we stick in the place of God as a way of giving us some value and meaning in life. But those idols just drive us further into personal, spiritual darkness—a life without God, a life without Christ.  
 
 The darkness of this world is so personal, so spiritual, for each person. And because the world is so full of darkness, it begins to show itself culturally and nationally.  
@@ -99,10 +95,6 @@ Friends, the Gospel’s declaration is that the darkness we’re in due to our o
 Are you a part of that new day? Have you come to Christ? You can do that today. You don’t need to be blind and in the darkness anymore. Come to Christ.  
 
 As Christians, are we living as people of the day? Are we fighting against the world, the flesh, and the devil? This is a glorious day we’re part of—a day of hope, growth, joy, and freedom in Christ.  
-
-Certainly! Continuing where we left off:
-
----
 
 First, it is a day of **hope.** It says here, “But there will be no gloom for her who was in anguish.” No gloom. In the latter time, He has made glorious the way of the sea, the land beyond the Jordan, Galilee of the Gentiles.  
 
@@ -180,8 +172,6 @@ The message of Christ’s life, death, and resurrection—the simple call to rep
 So, it’s a day of **hope,** a day of **growth,** and a day of **joy.**  
 
 Certainly! Continuing from where we left off:
-
----
 
 It’s a day of **joy.**  
 
@@ -262,8 +252,4 @@ Rejoice that Jesus will continue His work until the darkness is driven away once
 
 And just as in Solomon’s day, we will sit with our brothers and sisters from all nations around the table of our Lord. We will eat, drink, and be happy.  
 
-Amen.  
-
----
-
-Let me know if you need additional edits or have other requests!
+Amen.
