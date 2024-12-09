@@ -1,0 +1,1 @@
+🌟✨ Join me in reflecting on Isaiah 9 this Advent season! The people who walked in darkness have seen a great light; those who dwelt in a land of deep darkness, on them has light shone. Let's embrace the hope, growth, joy, and freedom that Christ brings into our lives. 🙏🌿 #Advent #Isaiah9 #LightOfTheWorld
