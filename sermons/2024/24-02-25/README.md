@@ -2,7 +2,7 @@
 
 ___
 
-## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2024/24-01-28)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2024/24-02-25)
 
 ## 2024-02-25-LHP-The_Dead_are_Raised
 

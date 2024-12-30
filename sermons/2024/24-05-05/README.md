@@ -2,7 +2,7 @@
 
 ___
 
-## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2024/24-01-28)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/main/sermons/2024/24-05-05)
 
 ## 24-05-05-The Coming of the Kingdom of God
 
