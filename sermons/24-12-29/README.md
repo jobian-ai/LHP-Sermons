@@ -2,7 +2,7 @@
 
 ___
 
-## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/f541cdd7fade61b0d743fa669909c2fa05a46ba1/sermons/24-12-29)
+## [Website](https://www.livinghopepresbyterian.org/) | [YouTube](https://www.youtube.com/@LivingHopePresbyterianChurch) | [Sermon Files](https://github.com/jobian-ai/LHP-Sermons/tree/sermons/24-12-29)
 
 ## 2024-12-29 - The Return of the King
 
