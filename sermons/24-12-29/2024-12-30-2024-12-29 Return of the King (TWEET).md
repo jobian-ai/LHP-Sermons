@@ -1,0 +1,1 @@
+👑🌿🙌 Proclaiming the King's Arrival! 🌿👑🙌 Let's prepare our hearts for His righteous judgment and mercy. #Hosanna #SonofDavid #Blessed #KingofKings #MercyAndGrace 🙏🌟
