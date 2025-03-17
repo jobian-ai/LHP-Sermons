@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9cb8f0d51ba6c976",
+        "id": "c88e83e22187d134",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd6ea8535ec1b56",
+            "id": "53c0e291338fb044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sermons/24-11-23/2024-11-23 - Kingdom Greatness (TWEET).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-23 - Kingdom Greatness (TWEET)"
+              "title": "README"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 765.5
+    "width": 405.5
   },
   "right": {
     "id": "217be2e53b9c71c0",
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sermons/24-07-07/24-07-07 - The Feast of Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 24-07-07 - The Feast of Jesus"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sermons/24-07-07/24-07-07 - The Feast of Jesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 24-07-07 - The Feast of Jesus"
             }
           },
           {
@@ -136,13 +138,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "sermons/24-07-07/24-07-07 - The Feast of Jesus.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 24-07-07 - The Feast of Jesus"
             }
           },
           {
-            "id": "3bfa9260cd0df76c",
+            "id": "35a639ee76c4a3a8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -160,52 +164,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bd6ea8535ec1b56",
+  "active": "6a82dbbe748225c0",
   "lastOpenFiles": [
-    "sermons/24-11-23/2024-11-23 - Kingdom Greatness (MS).md",
-    "sermons/24-11-23/2024-11-23 - Kingdom Greatness.md",
-    "sermons/24-11-23/2024-11-23 - Kingdom Greatness (TWEET).md",
-    "sermons/24-11-23/2024-11-23 - Kingdom Greatness (SE).md",
-    "sermons/24-11-23/README.md",
-    "00-INBOX/2024-09-02-The Greatest Takedown of the Pro-Choice Position You’ve Ever Heard - YT (EW).md",
-    "00-INBOX/2024-09-02-The Greatest Takedown of the Pro-Choice Position You’ve Ever Heard - YT (SE).md",
-    "sermons/24-12-01/README.md",
-    "sermons/24-01-21/README.md",
-    "sermons/24-01-14/README.md",
-    "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings.md",
-    "sermons/24-11-10/2024-11-13-Rich Young Ruler (TWEET).md",
-    "fabric/fabric_use_and_examples.md",
-    "sermons/24-11-10/2024-11-10-The Rich Young Ruler (SE).md",
-    "fabric/fabric_setup.md",
-    "fabric/README.md",
-    "speech-to-text/README.md",
-    "00-INBOX/2024-09-02-Society Is A Ponzi Scheme - Warning On Population Collapse & Hopeless Generation ｜ Eric Weinstein [18bhyZIFXF4] (EW).md",
-    "sermons/24-11-10/2024-11-10-The Rich Young Ruler (EW).md",
-    "sermons/24-11-10/2024-11-10-The Rich Young Ruler (MS).md",
-    "conflict-files-obsidian-git.md",
-    "sermons/24-11-10",
-    "sermons/24-07-07/24-07-07 - The Feast of Jesus.md",
-    "sermons/24-07-07/24-07-07 - The Feast of Jesus (SE).md",
-    "sermons/24-07-07",
-    "sermons/24-07-07/24-07-07 - The Feast of Jesus (MS).md",
-    "sermons/24-07-07/24-07-07 - The Feast of Jesus (EW).md",
-    "sermons/24-01-14/24-01-14 - Life and Ministry of Jesus-Healings (SE).md",
-    "sermons/24-01-14",
-    "sermons/24-01-21",
-    "sermons/24-01-28",
-    "sermons/24-02-04",
-    "sermons/24-02-11",
-    "sermons/24-02-18",
-    "sermons/24-02-25",
-    "sermons/24-03-03"
+    "ufo/2023/READMD.md",
+    "ufo/2023/230815 - 244 - Alien Revelations S01E10 DisclosureAndRevelation-whisper-transcribed.md",
+    "ufo/2023/230815 - 244 - Alien Revelations S01E10 DisclosureAndRevelation (Essay).md",
+    "ufo/2023/230815 - 243 - Alien Revelations S01E09 PunkRockAndUFOFightClub-whisper-transcribed.md",
+    "ufo/2023/230815 - 243 - Alien Revelations S01E09 PunkRockAndUFOFightClub (Essay).md",
+    "ufo/2023/230815 - 242 - Alien Revelations S01E08 TheAcclimitizationProcess-whisper-transcribed.md",
+    "ufo/2023/230815 - 242 - Alien Revelations S01E08 TheAcclimitizationProces (Essay).md",
+    "ufo/2023/230815 - 241 - Alien Revelations S01E07 StrangerThings-whisper-transcribed.md",
+    "ufo/2023/230815 - 241 - Alien Revelations S01E07 StrangerThings (Essay).md",
+    "ufo/2023/230815 - 240 - Alien Revelations S01E06 TheInvisibleCollege-whisper-transcribed.md",
+    "ufo/2023/230815 - 240 - Alien Revelations S01E06 TheInvisibleCollege (Essay).md",
+    "ufo/2023/230815 - 239 - Alien Revelations S01E05 TopSekretMagick-whisper-transcribed.md",
+    "ufo/2023/230815 - 239 - Alien Revelations S01E05 TopSekretMagick (Essay).md",
+    "ufo/2023/230815 - 238 - Alien Revelations S01E04 TheSummerof1947SaucerFeverandtheCoverUp-whisper-transcribed.md",
+    "ufo/2023/230815 - 238 - Alien Revelations S01E04 TheSummerof1947SaucerFeverandtheCoverUp (Essay).md",
+    "ufo/2023/230815 - 237 - Alien Revelations S01E03 AGrimoireOfTheSpaceRace-whisper-trabscribed.md",
+    "ufo/2023/230815 - 237 - Alien Revelations S01E03 AGrimoireOfTheSpaceRace (Essay).md",
+    "ufo/2023/230815 - 236 - Alien Revelations S01E02 TheSorcererAndTheSeer-whisper-transcribed.md",
+    "ufo/2023/230815 - 236 - Alien Revelations S01E02 TheSorcererAndTheSeer (Essay).md",
+    "ufo/2023/230815 - 235 - Alien Revelations S01E01 DayofDisclosure-whisper-transcribed.md",
+    "ufo/2023/230815 - 235 - Alien Revelations S01E01 DayofDisclosure (GROK Summary).md",
+    "ufo/2023/230815 - 235 - Alien Revelations S01E01 DayofDisclosure (Essay).md",
+    "ufo/2023/230815 - 235 - Alien Revelations S01E01 (MicroEssay).md",
+    "ufo/2023/230815 - 235 - Alien Revelations S01E01 (EW).md",
+    "ufo/README.md",
+    "ufo/2023",
+    "ufo",
+    "sermons/2025/25-02-09/2025-02-09-Jesus' Turn (SE).md",
+    "sermons/2025/25-02-09",
+    "sermons/2025/25-02-23",
+    "sermons/2025/25-02-16",
+    "sermons/2025/25-01-26",
+    "sermons/2025/25-02-02",
+    "sermons/2025/25-01-19",
+    "sermons/2025/25-01-12",
+    "sermons/2025"
   ]
 }
