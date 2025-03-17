@@ -1,0 +1,19 @@
+# What You’re Given
+
+I was listening to this sermon the other day, and it got me thinking about something simple but tricky. It’s about a story Jesus tells in Matthew 25, the one with the talents. A guy hands out big piles of money—five talents to one servant, two to another, one to a third—and then takes off. The first two double their piles. The third buries his and does nothing. When the boss comes back, he’s thrilled with the first two and furious with the last one. It’s a parable, sure, but it’s not really about money. It’s about what you’re given.
+
+The preacher starts with the Second Coming—Jesus returning someday, sudden and visible, to sort everyone out. That’s the frame. But the real meat is in the story. The talents aren’t just cash; they’re whatever you’ve got. Your life, your skills, your time. The point isn’t how much you start with—it’s what you do with it. The five-talent guy and the two-talent guy get the same praise. The one-talent guy gets nothing because he didn’t try.
+
+This hit me because it’s easy to think what you’ve got isn’t enough. I’ve felt that way plenty of times. You look at someone else’s pile—smarter , stronger, luckier—and figure you’re stuck. But the story says that’s not it. The master doesn’t care about the size of the pile. He cares about the effort. The two-talent guy doesn’t get docked for not hitting ten. He gets “Well done” because he used what he had.
+
+The flip side’s brutal. The one-talent guy freezes up. He’s scared, calls the master harsh, and buries his shot. He’s not lazy in the usual sense—he digs a hole, after all. But he’s paralyzed by how he sees the boss. That’s the twist. How you see the giver changes what you do with the gift. If you think he’s out to get you, you’ll hide. If you trust him, you’ll move.
+
+I’ve seen this play out. Back when I was a kid, I’d avoid stuff I wasn’t great at. Thought I’d look dumb. Same vibe as the one-talent guy. Meanwhile, friends who weren’t afraid to fail kept going and got better. It’s not about talent in the modern sense—singing or coding or whatever. It’s about taking what’s yours and doing something with it. The preacher ties this to God. Everything’s his—your breath, your hands, your ideas. He hands it out, not randomly, but according to what you can handle. Then he steps back.
+
+That stepping back is key. The master doesn’t hover. He leaves, and you’re on your own to figure it out. Jesus does the same, the sermon says—ascends, leaves us with the Gospel, the call to love, the work. No manual. Just principles and a shove. It’s scary, but it’s freedom too. You’re not spoon-fed. You’ve got to act.
+
+The payoff’s wild. The first two servants don’t just get a pat on the back. They get “Enter into the joy of your master.” That’s not some vague reward. It’s sharing what the giver feels—his delight, his kick out of seeing it grow. The preacher leans into this hard. God’s generous, not stingy. He’s not a robot doling out tasks. He wants you in on the fun. But the one-talent guy? He’s out. Not because he didn’t hit a quota, but because he didn’t play.
+
+Writing this down makes it clearer. I didn’t see the fear angle till I started typing. The one-talent guy’s problem isn’t the talent—it’s his head. He’s got this story about the master being cruel, and it locks him up. The others don’t. They trust, they risk, they win. That’s the test. What’s your story about the giver? Because that’s what’ll decide what you do with what you’re given.
+
+The sermon ends with a push. Don’t bury it. Not your life, not the Gospel, not whatever you’ve got. Jesus poured his out and got a kingdom. Peter says use your gift, whatever it is. The hymn says give it all back. It’s simple, but it’s not easy. You’ve got to trust the giver’s good. If you do, you’ll move. If you don’t, you’re stuck. Either way, he’s coming back to see what you did.
