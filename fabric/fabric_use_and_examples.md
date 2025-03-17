@@ -1,3 +1,7 @@
+```
+yt-dlp.exe -x --audio-format mp3 --audio-quality 0 https://www.youtube.com/watch?v=s9gRg3_A-RM
+```
+
 Download the transcript of a YouTube video:
 
 ```
