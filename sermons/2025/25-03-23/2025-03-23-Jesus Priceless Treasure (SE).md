@@ -17,7 +17,7 @@ The sermon delves into the final week of Jesus' ministry as depicted in the Gosp
 
 - The speaker humorously mentions his Platinum Elite status at a hotel chain, highlighting the concept of valuing individuals based on status or material possessions.
 
-## Key Quotes
+## Key Quotes:
 
 - "What do you value this morning?"
 - "Is Christ your priceless treasure?"
