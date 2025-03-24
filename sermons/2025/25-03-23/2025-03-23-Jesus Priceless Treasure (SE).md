@@ -13,7 +13,7 @@ The sermon delves into the final week of Jesus' ministry as depicted in the Gosp
 
 - Matthew 26:2-16
 
-## Humor and Anecdotes"
+## Humor and Anecdotes:
 
 - The speaker humorously mentions his Platinum Elite status at a hotel chain, highlighting the concept of valuing individuals based on status or material possessions.
 
